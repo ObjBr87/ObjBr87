@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ObjBr87 and I am a software engineering student, since august 2020.
 - 👀 I’m interested in games of all kind.
-- 🌱 I’m currently learning Unity/C#, C and embedded systems.
+- 🌱 I’m currently learning Unity/C#, C and also about embedded systems in general.
 - 💞️ I’m looking to collaborate on .... I don't know the answer here.
 - 📫 How to reach me I guess on here somehow?
 
